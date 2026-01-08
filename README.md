@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 🚀 Hi, I'm Jay Thakur 👋  
+# 🚀 Hi, I'm Nitin Saini 👋  
 ### Software Developer | AI Systems Builder | Startup Founder  
 
 I build **real systems**, not demo projects.  
