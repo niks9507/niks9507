@@ -1,4 +1,3 @@
-## Hi there 👋
 # 🚀 Hi, I'm Nitin Saini 👋  
 ### Software Developer | AI Systems Builder | Startup Founder  
 
